@@ -25,6 +25,7 @@
 
 
 <p></p>
+
 **Tools & Libraries:** React, Git, GitHub, REST APIs, Tailwind CSS, SQL  
 **Dev Practices:** Agile Development, Responsive Design, Version Control, Debugging  
 **Platforms:** Swift, Visual Studio Code  
