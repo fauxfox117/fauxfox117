@@ -7,7 +7,7 @@
 
 - I’m looking to collaborate on **anything**
 
-- 👨‍💻 All of my projects are available at [stevenabolin.com (currently being remodeled)](stevenabolin.com (currently being remodeled))
+- 👨‍💻 All of my projects are available at [stevenabolin.com](stevenabolin.com)
 
 - 📫 How to reach me **SABolin1@me.com**
 
