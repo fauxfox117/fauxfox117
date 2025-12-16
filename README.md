@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spots](https://fauxfox117.github.io/se_project_spots/)
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning about **databases**
 
 - I’m looking to collaborate on **anything**
 
