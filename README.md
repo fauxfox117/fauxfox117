@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Steven Bolin</h1>
 <h3 align="center">A passionate frontend developer from South Carolina</h3>
 
-- 🔭 I’m currently working on [Spots](https://fauxfox117.github.io/se_project_spots/)
+- 🔭 I’m currently working on [Irick Images](https://irickimagesfull.vercel.app/home)
 
 - 🌱 I’m currently learning about **databases**
 
-- I’m looking to collaborate on **anything**
+- I’m looking to collaborate on **fun web developments**
 
 - 👨‍💻 All of my projects are available at [stevenabolin.com](stevenabolin.com)
 
