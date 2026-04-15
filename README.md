@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steven Bolin</h1>
-<h3 align="center">A passionate frontend developer from South Carolina</h3>
+<h3 align="center">A passionate software developer from South Carolina</h3>
 
-- 🔭 I’m currently working on [Irick Images](https://irickimagesfull.vercel.app/home)
+- 🔭 I’m currently working on [Irick Images](https://irick-images.netlify.app)
 
 - 🌱 I’m currently learning about **databases**
 
