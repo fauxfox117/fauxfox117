@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steven Bolin</h1>
 <h3 align="center">A passionate software developer from South Carolina</h3>
 
-- 🔭 I’m currently working on [Mise](https://www.mise.saucedchicago.com/))
+- I'm currently working on freelance projects
+
+- 🔭 My capstone project at TripleTen was [Mise](https://www.mise.saucedchicago.com/)
 
 - 🌱 I’m currently finishing up my final project
 
